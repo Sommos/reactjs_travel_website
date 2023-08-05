@@ -1,5 +1,11 @@
 # ReactJS Travel Website
 
+<p align="center">
+    <img src="image_0.png" width="400" />
+    <img src="image_1.png" width="400" />
+    <img src="image_2.png" width="800" />
+</p>
+
 This program is to test the React framework and JavaScript language, building a basic travel website.
 
 # Contribution
